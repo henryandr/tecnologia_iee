@@ -1,0 +1,17 @@
+Módulo;Semana;Tema
+Tecnologías basadas en dispositivos pasivos;1;Resistencias fijas y variables. Reóstato, potenciómetro y trimmer. Fotoresistencia. Aplicaciones prácticas
+;2;Campo eléctrico. Tipos de condensadores. Funcionamiento en AC y DC. Prueba con el multímetro. Circuitos en serie y paralelo. Aplicaciones prácticas
+;3;Campo magnético. Inductancia o autoinductancia eléctrica. Bobina. Funcionamiento de una bobina en AC y CD. Prueba de bobinas con el multímetro. Circuitos serie y paralelo. Aplicaciones prácticas.
+;4;Evaluación del primer módulo.
+Fuente regulada de tensión;1;Inductancia mutua. Transformador eléctrico: partes, funcionamiento. Relación voltaje, corriente y espiras. Tipos de transformadores. Prueba con un multímetro.
+;2;Diodo rectificador. Rectificación de media onda y onda completa. Prueba del diodo con el multímetro. Diodo Zener, regulador de voltaje. Aplicaciones.
+;3;Diseño e implementación de una fuente regulada de corriente directa.
+;4;Evaluación del módulo 2
+Equipos de medición y dispositivos de control;1;Manejo de equipo de laboratorio: Generador de señales y Osciloscopio. Medición de amplitud, frecuencia y fase. Aplicaciones del osciloscopio
+;2;Transistor bipolar de unión (BJT). Transistor PNP y NPN. El transistor como interruptor. Cálculos para usar el BJT en corte y saturación. Prueba con el multímetro. Aplicaciones.
+;3;Interruptores electromecánicos. Relé. Tipos, simbología, funcionamiento, circuitos. Aplicaciones. Comparación con un Transistor.
+;4;Evaluación del módulo 3
+Robótica;1;Tiristor, SCR y TRIAC. Funcionamiento: ángulo de conducción y de disparo. Prueba con el multímetro. Circuitos de aplicación.
+;2;Robot con telemetría, sensor de distancia a objetos, voltaje de la batería, sensor de velocidad
+;3;Trabajo práctico
+;4;Trabajo práctico
