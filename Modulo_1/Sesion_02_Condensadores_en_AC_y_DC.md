@@ -123,7 +123,7 @@ flowchart TD
 2. Determine la reactancia de un capacitor de $470\,\text{nF}$ a $60\,\text{Hz}$, $1\,\text{kHz}$ y $100\,\text{kHz}$. Interprete la tendencia física.
 3. Calcule la capacitancia equivalente de tres capacitores de $10\,\mu\text{F}$, $22\,\mu\text{F}$ y $47\,\mu\text{F}$ conectados: a) en paralelo, b) en serie.
 4. En un circuito RC serie conectado a una fuente senoidal de $10\,\text{V}_{rms}$ y $1\,\text{kHz}$, con $R=1\,\text{k}\Omega$ y $C=100\,\text{nF}$, calcule la impedancia total, la corriente RMS y el ángulo de fase.
-5. Un condensador de filtro alimenta una carga de $100\,\text{mA}$ en una fuente rectificada de onda completa a $120\,\text{Hz}$. Estime el rizado si $C=1000\,\mu\text{F}$ usando $\Delta V \approx I/(fC)$.
+5. Un condensador de filtro alimenta una carga de $100\,\text{mA}$ en una fuente rectificada de onda completa a $120\,\text{Hz}$. Estime el rizado si $C=1000\,\mu\text{F}$ usando $\Delta V \approx \frac{I_L}{f_r C}$.
 
 ## Actividad en Clase (Hands-on)
 **Práctica guiada: carga, descarga y verificación de condensadores**

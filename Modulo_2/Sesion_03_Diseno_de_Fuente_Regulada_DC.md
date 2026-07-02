@@ -70,13 +70,13 @@ $$
 P_{reg} = (V_{in}-V_o)I_o
 $$
 
-por lo que el diseño térmico es crítico. Si se usa un Zener:
+por lo que el diseño térmico es crítico. Si se usa un Zener, la resistencia serie debe calcularse primero para garantizar la corriente mínima de regulación en el peor caso de tensión de entrada baja y carga alta:
 
 $$
-R_s = \frac{V_{in}-V_Z}{I_L+I_Z}
+R_{s,max} = \frac{V_{in,min}-V_Z}{I_{L,max}+I_{Z,min}}
 $$
 
-seleccionando el peor caso de carga y asegurando la corriente mínima de regulación.
+y además debe verificarse el caso opuesto, de tensión de entrada alta y carga mínima, para asegurar que la corriente del Zener no exceda su valor máximo permitido.
 
 ### Rectificación y selección de diodos
 Cada diodo debe soportar la corriente media esperada y la tensión inversa repetitiva adecuada. En una topología de puente, la caída en conducción reduce el margen disponible y eleva la disipación.

@@ -20,7 +20,7 @@ I_D = I_S\left(e^{\frac{V_D}{nV_T}}-1\right)
 $$
 
 ### Rectificación de media onda
-En un rectificador de media onda con carga resistiva, el diodo conduce durante un semiciclo y bloquea durante el otro. Para una entrada senoidal de valor pico $V_m$, el valor promedio ideal de salida es:
+En un rectificador de media onda con carga resistiva, el diodo conduce durante un semiciclo y bloquea durante el otro. Para una entrada senoidal de valor pico $V_m$ y un diodo ideal, el valor promedio de salida es:
 
 $$
 V_{DC} = \frac{V_m}{\pi}
@@ -29,7 +29,7 @@ $$
 Si se considera la caída directa del diodo, la amplitud efectiva disminuye aproximadamente a $V_m - V_D$.
 
 ### Rectificación de onda completa
-En configuración con derivación central o puente de diodos, ambos semiciclos se aprovechan. Para un rectificador ideal de onda completa:
+En configuración con derivación central o puente de diodos, ambos semiciclos se aprovechan. Para un rectificador ideal de onda completa con carga resistiva:
 
 $$
 V_{DC} = \frac{2V_m}{\pi}
