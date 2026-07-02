@@ -45,7 +45,7 @@ $$
 Para que un regulador lineal mantenga regulación, debe cumplirse:
 
 $$
-V_{C,min} \ge V_o + V_{dropout}
+V_{C,min} \ge V_o + V_{dropout,min}
 $$
 
 ### Dimensionamiento del filtro

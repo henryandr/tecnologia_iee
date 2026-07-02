@@ -109,6 +109,6 @@ flowchart TD
 ## Recursos Adicionales
 - Boylestad, R. L., & Nashelsky, L. *Electronic Devices and Circuit Theory*. Pearson.
 - Sedra, A. S., & Smith, K. C. *Microelectronic Circuits*. Oxford University Press.
-- onsemi. Datasheets de diodos rectificadores y Zener: https://www.onsemi.com/
+- ON Semiconductor (onsemi). Datasheets de diodos rectificadores y Zener: https://www.onsemi.com/
 - Vishay. Documentación de puentes rectificadores y Zener: https://www.vishay.com/
 - Hojas de datos sugeridas: 1N4007, 1N4148, 1N4733A, puente rectificador de 1 A.
